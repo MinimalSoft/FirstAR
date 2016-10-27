@@ -1,0 +1,7 @@
+#Thu Oct 27 18:19:31 CDT 2016
+base.0=C\:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_5a41de841db3f65ab8ea9f3e11a7d049056b57d1
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_dc659892011064ba170f984686fe8ba3b17d288b\\classes.dex
+base.1=C\:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_dc659892011064ba170f984686fe8ba3b17d288b
+file.0=C\:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_5a41de841db3f65ab8ea9f3e11a7d049056b57d1\\classes.dex

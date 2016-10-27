@@ -1,0 +1,51 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    tools:context="com.MinimalSoft.FAR.Tabs.Measurements.mes">
+
+    <RelativeLayout
+        android:id="@+id/control"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_alignParentBottom="true"> 
+        
+    <View
+        android:id="@+id/sepControl"
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@color/divider" />
+
+    <TextView
+        android:id="@+id/controlAction"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_gravity="right|center_vertical"
+        android:gravity="center_horizontal"
+        android:text="@string/scan"
+        android:textColor="@color/secondaryText"
+        android:textSize="22sp" />
+    <View
+        android:id="@+id/sepControlBottom"
+        android:layout_width="match_parent"
+        android:layout_alignParentBottom="true"
+        android:layout_height="2dp"
+        android:background="@color/divider" />
+    
+    
+    </RelativeLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/stringConnect"
+        android:id="@+id/textView"
+        android:layout_alignParentTop="false"
+        android:layout_marginTop="90dp"
+        android:textColor="@color/primaryText"
+        android:gravity="center"
+        android:layout_centerVertical="true"/>
+</RelativeLayout>

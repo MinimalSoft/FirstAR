@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\md_nav_back.xml",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.0.2\\res\\drawable-anydpi-v21\\md_nav_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\md_nav_back.xml",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.0.2\\res\\drawable-anydpi-v21\\md_nav_back.xml"
+    }
+]

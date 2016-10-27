@@ -1,0 +1,314 @@
+[
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\com_facebook_tooltip_black_xout.png",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\drawable-mdpi\\com_facebook_tooltip_black_xout.png"
+    },
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_home_heart.png",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\src\\main\\res\\drawable-mdpi\\ic_home_heart.png"
+    },
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_home_background.png",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\src\\main\\res\\drawable-mdpi\\ic_home_background.png"
+    },
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\com_facebook_tooltip_blue_background.9.png",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\drawable-mdpi\\com_facebook_tooltip_blue_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_battery_1.png",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\src\\main\\res\\drawable-mdpi\\ic_battery_1.png"
+    },
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\com_facebook_tooltip_black_bottomnub.png",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\drawable-mdpi\\com_facebook_tooltip_black_bottomnub.png"
+    },
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_top_logo.png",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\src\\main\\res\\drawable-mdpi\\ic_top_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\messenger_bubble_large_blue.png",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\drawable-mdpi\\messenger_bubble_large_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_battery_2.png",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\src\\main\\res\\drawable-mdpi\\ic_battery_2.png"
+    },
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_home_temp_top.png",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\src\\main\\res\\drawable-mdpi\\ic_home_temp_top.png"
+    },
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_signal_2.png",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\src\\main\\res\\drawable-mdpi\\ic_signal_2.png"
+    },
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_battery_1.png",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\src\\main\\res\\drawable-mdpi\\ic_battery_1.png"
+    },
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\com_facebook_tooltip_blue_topnub.png",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\drawable-mdpi\\com_facebook_tooltip_blue_topnub.png"
+    },
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_home_circle.png",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\src\\main\\res\\drawable-mdpi\\ic_home_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_signal_1.png",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\src\\main\\res\\drawable-mdpi\\ic_signal_1.png"
+    },
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_home_acceleration.png",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\src\\main\\res\\drawable-mdpi\\ic_home_acceleration.png"
+    },
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\messenger_bubble_large_white.png",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\drawable-mdpi\\messenger_bubble_large_white.png"
+    },
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_home_background.png",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\src\\main\\res\\drawable-mdpi\\ic_home_background.png"
+    },
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_home_acceleration.png",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\src\\main\\res\\drawable-mdpi\\ic_home_acceleration.png"
+    },
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_top_logo.png",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\src\\main\\res\\drawable-mdpi\\ic_top_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\com_facebook_button_send_icon.png",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\drawable-mdpi\\com_facebook_button_send_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\com_facebook_profile_picture_blank_square.png",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\drawable-mdpi\\com_facebook_profile_picture_blank_square.png"
+    },
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\messenger_bubble_large_white.png",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\drawable-mdpi\\messenger_bubble_large_white.png"
+    },
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\messenger_bubble_large_blue.png",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\drawable-mdpi\\messenger_bubble_large_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\com_facebook_button_icon.png",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\drawable-mdpi\\com_facebook_button_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_signal_0.png",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\src\\main\\res\\drawable-mdpi\\ic_signal_0.png"
+    },
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\com_facebook_close.png",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\drawable-mdpi\\com_facebook_close.png"
+    },
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_signal_0.png",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\src\\main\\res\\drawable-mdpi\\ic_signal_0.png"
+    },
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\messenger_bubble_small_blue.png",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\drawable-mdpi\\messenger_bubble_small_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\com_facebook_tooltip_blue_bottomnub.png",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\drawable-mdpi\\com_facebook_tooltip_blue_bottomnub.png"
+    },
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_home_heart.png",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\src\\main\\res\\drawable-mdpi\\ic_home_heart.png"
+    },
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_signal_3.png",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\src\\main\\res\\drawable-mdpi\\ic_signal_3.png"
+    },
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\com_facebook_tooltip_blue_xout.png",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\drawable-mdpi\\com_facebook_tooltip_blue_xout.png"
+    },
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_battery_2.png",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\src\\main\\res\\drawable-mdpi\\ic_battery_2.png"
+    },
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\messenger_button_send_round_shadow.png",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\drawable-mdpi\\messenger_button_send_round_shadow.png"
+    },
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\com_facebook_profile_picture_blank_square.png",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\drawable-mdpi\\com_facebook_profile_picture_blank_square.png"
+    },
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\com_facebook_tooltip_black_background.9.png",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\drawable-mdpi\\com_facebook_tooltip_black_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\com_facebook_tooltip_black_background.9.png",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\drawable-mdpi\\com_facebook_tooltip_black_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\com_facebook_tooltip_blue_topnub.png",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\drawable-mdpi\\com_facebook_tooltip_blue_topnub.png"
+    },
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\com_facebook_tooltip_blue_xout.png",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\drawable-mdpi\\com_facebook_tooltip_blue_xout.png"
+    },
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\com_facebook_button_like_icon_selected.png",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\drawable-mdpi\\com_facebook_button_like_icon_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_battery_4.png",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\src\\main\\res\\drawable-mdpi\\ic_battery_4.png"
+    },
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_signal_4.png",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\src\\main\\res\\drawable-mdpi\\ic_signal_4.png"
+    },
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\messenger_bubble_small_white.png",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\drawable-mdpi\\messenger_bubble_small_white.png"
+    },
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_home_temp_bottom.png",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\src\\main\\res\\drawable-mdpi\\ic_home_temp_bottom.png"
+    },
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\messenger_bubble_small_blue.png",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\drawable-mdpi\\messenger_bubble_small_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_battery_4.png",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\src\\main\\res\\drawable-mdpi\\ic_battery_4.png"
+    },
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\com_facebook_close.png",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\drawable-mdpi\\com_facebook_close.png"
+    },
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_signal_4.png",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\src\\main\\res\\drawable-mdpi\\ic_signal_4.png"
+    },
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\com_facebook_tooltip_black_bottomnub.png",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\drawable-mdpi\\com_facebook_tooltip_black_bottomnub.png"
+    },
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_signal_3.png",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\src\\main\\res\\drawable-mdpi\\ic_signal_3.png"
+    },
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\com_facebook_button_icon.png",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\drawable-mdpi\\com_facebook_button_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_home_circle.png",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\src\\main\\res\\drawable-mdpi\\ic_home_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\com_facebook_tooltip_black_xout.png",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\drawable-mdpi\\com_facebook_tooltip_black_xout.png"
+    },
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\com_facebook_tooltip_blue_bottomnub.png",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\drawable-mdpi\\com_facebook_tooltip_blue_bottomnub.png"
+    },
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_home_step_right.png",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\src\\main\\res\\drawable-mdpi\\ic_home_step_right.png"
+    },
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_home_step_left.png",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\src\\main\\res\\drawable-mdpi\\ic_home_step_left.png"
+    },
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\com_facebook_profile_picture_blank_portrait.png",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\drawable-mdpi\\com_facebook_profile_picture_blank_portrait.png"
+    },
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\messenger_bubble_small_white.png",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\drawable-mdpi\\messenger_bubble_small_white.png"
+    },
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\com_facebook_button_send_icon.png",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\drawable-mdpi\\com_facebook_button_send_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_battery_0.png",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\src\\main\\res\\drawable-mdpi\\ic_battery_0.png"
+    },
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_home_step_left.png",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\src\\main\\res\\drawable-mdpi\\ic_home_step_left.png"
+    },
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_battery_3.png",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\src\\main\\res\\drawable-mdpi\\ic_battery_3.png"
+    },
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\com_facebook_profile_picture_blank_portrait.png",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\drawable-mdpi\\com_facebook_profile_picture_blank_portrait.png"
+    },
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\com_facebook_tooltip_blue_background.9.png",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\drawable-mdpi\\com_facebook_tooltip_blue_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\messenger_button_send_round_shadow.png",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\drawable-mdpi\\messenger_button_send_round_shadow.png"
+    },
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_home_step_right.png",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\src\\main\\res\\drawable-mdpi\\ic_home_step_right.png"
+    },
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\com_facebook_tooltip_black_topnub.png",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\drawable-mdpi\\com_facebook_tooltip_black_topnub.png"
+    },
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_home_temp_bottom.png",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\src\\main\\res\\drawable-mdpi\\ic_home_temp_bottom.png"
+    },
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_signal_2.png",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\src\\main\\res\\drawable-mdpi\\ic_signal_2.png"
+    },
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\com_facebook_tooltip_black_topnub.png",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\drawable-mdpi\\com_facebook_tooltip_black_topnub.png"
+    },
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_battery_0.png",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\src\\main\\res\\drawable-mdpi\\ic_battery_0.png"
+    },
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_home_temp_top.png",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\src\\main\\res\\drawable-mdpi\\ic_home_temp_top.png"
+    },
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_signal_1.png",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\src\\main\\res\\drawable-mdpi\\ic_signal_1.png"
+    },
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_battery_3.png",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\src\\main\\res\\drawable-mdpi\\ic_battery_3.png"
+    },
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\com_facebook_button_like_icon_selected.png",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\drawable-mdpi\\com_facebook_button_like_icon_selected.png"
+    }
+]

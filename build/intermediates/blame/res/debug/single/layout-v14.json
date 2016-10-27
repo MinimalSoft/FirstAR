@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\build\\intermediates\\res\\merged\\debug\\layout-v14\\md_stub_progress_indeterminate.xml",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.0.2\\res\\layout-v14\\md_stub_progress_indeterminate.xml"
+    },
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\build\\intermediates\\res\\merged\\debug\\layout-v14\\md_stub_progress_indeterminate.xml",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.0.2\\res\\layout-v14\\md_stub_progress_indeterminate.xml"
+    },
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\build\\intermediates\\res\\merged\\debug\\layout-v14\\md_stub_progress.xml",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.0.2\\res\\layout-v14\\md_stub_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\build\\intermediates\\res\\merged\\debug\\layout-v14\\md_stub_progress_indeterminate_horizontal.xml",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.0.2\\res\\layout-v14\\md_stub_progress_indeterminate_horizontal.xml"
+    },
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\build\\intermediates\\res\\merged\\debug\\layout-v14\\md_stub_progress_indeterminate_horizontal.xml",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.0.2\\res\\layout-v14\\md_stub_progress_indeterminate_horizontal.xml"
+    },
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\build\\intermediates\\res\\merged\\debug\\layout-v14\\md_stub_progress.xml",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.0.2\\res\\layout-v14\\md_stub_progress.xml"
+    }
+]

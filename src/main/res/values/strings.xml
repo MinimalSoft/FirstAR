@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">First AR</string>
+    <string name="action_settings">Configuraciones</string>
+    <string name="heart_rate">Ritmo cardiaco</string>
+    <string name="temperatur">Temperatura</string>
+    <string name="scan">ESCANEAR</string>
+    <string name="scanning">ESCANEANDO...</string>
+    <string name="disconnect">DESCONECTADO</string>
+    <string name="device_name">Device Name</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+    <!-- Titulos de las tabs -->
+    <string name="tab_mediciones">Mediciones</string>
+    <string name="tab_primerosAuxilios">Primeros Auxilios</string>
+    <string name="tab_tips">Tips</string>
+    <string name="tab_perfil">Perfil</string>
+
+    <!-- Textos fragmentos mediciones -->
+    <string name="stringConnect">¡Bienvenido!\n Para una mejor experiencia te recomendamos conectar con tu Angel Sensor."</string>
+
+
+    <!-- Textos fragmento maiobras -->
+    <string name="text_maniobras_heimlich">Heimlich</string>
+    <string name="text_maniobras_alergias">Alergias</string>
+    <string name="text_maniobras_asma">Crisis Asmática</string>
+    <string name="text_maniobras_sangrado">Sangrado</string>
+    <string name="text_maniobras_fractura">Fractura</string>
+    <string name="text_maniobras_quemadura">Quemadura</string>
+    <string name="text_maniobras_golpe_de_calor">Golpe de Calor</string>
+    <string name="text_maniobras_hipotermia">Hipotermia</string>
+    <string name="text_maniobras_envenenamiento">Envenenamiento</string>
+    <string name="text_maniobras_picaduras">Picaduras</string>
+    <string name="text_maniobras_inconsciente">Inconsciente</string>
+
+    <string name="text_maniobras_con_ra">Con Realidad Aumentada</string>
+    <string name="text_maniobras_sin_ra">Sin Realidad Aumentada</string>
+
+
+    <!-- Textos fragmento perfil  -->
+    <string name="text_perfil_historial_medico">Historial Medico</string>
+    <string name="text_perfil_historial_de_mediciones">Historial de Mediciones</string>
+    <string name="text_perfil_configuraciones">Configuraciones</string>
+    <string name="text_perfil_acerca">Acerca</string>
+    <string name="text_perfil_cerrar_sesion">Cerrar Sesión</string>
+
+    <string name="stringLogin">¡Inicia Sesión!\n Para acceder a interesantes características."</string>
+    <string name="profile_loggin">INICIAR</string>
+    <string name="title_activity_details">Detalles</string>
+
+    <!-- Pasos  Alergias-->
+    <string name="step1_cat_alergia">La persona puede desarrollar una erupción cutánea, picazón o
+        hinchazón en sus manos, pies o cara. Su respiración puede ser mas lenta.</string>
+    <string name="step2_cat_alergia">Cuando observe estos síntomas llame al servicio de emergencias.</string>
+    <string name="step3_cat_alergia">Si la persona que padece de reacciones anafilácticas (problemas
+        respiratorios, shock o cambios de estado mental) y cuenta con un auto inyector de
+        epinefrina (Epi-pen), ayúdelo a utilizarlo.</string>
+    <string name="step4_cat_alergia">Manténgalo tranquilo mientras llega la ambulancia.</string>
+
+    <!-- Pasos  Asma -->
+    <string name="step1_cat_asma">Ayude a la persona a sentarse en una posición cómoda y
+        ayude en la administración de su medicamento. </string>
+    <string name="step2_cat_asma">Tranquilice a la persona. </string>
+    <string name="step3_cat_asma">Si la crisis se vuelve severa, no cuenta con el
+        medicamento o no mejora con el medicamento, llame al 065 o pida a alguien mas que lo haga.</string>
+
+    <!-- Pasos  Sangrado -->
+    <string name="step1_cat_sangrado">Aplique presión en la herida con lo que tenga disponible
+        para detener o disminuir el flujo de la sangre. </string>
+    <string name="step2_cat_sangrado">Si el sangrado es severo, llame al 065 tan
+        pronto como sea posible, o pida que alguien mas lo haga. </string>
+    <string name="step3_cat_sangrado">Mantenga presionada la herida hasta que la ayuda llegue. </string>
+
+    <!-- Pasos   -->
+    <string name="step1_cat_fractura">Aliente a la persona a sujetar la lesión con sus
+        propias manos, o utilice un cojín u objeto para prevenir movimientos innecesarios.</string>
+    <string name="step2_cat_fractura">Si el área lesionada está muy deforme, existe
+        mucho dolor, o se necesita transportar, llame al 065 tan pronto como sea
+        posible, o pida que alguien mas lo haga.</string>
+    <string name="step3_cat_fractura">Asegúrese que la lesión esta inmovilizada hasta que la ayuda llegue.</string>
+
+    <!-- Pasos   -->
+    <string name="step1_cat_quemadura">Enfrié la quemadura a chorro de agua corriente por 10 minutos. </string>
+    <string name="step2_cat_quemadura">Si la quemadura requiere atención medica adicional,
+        cubra holgadamente la quemadura con una envoltura de plástico limpia. De lo
+        contrario no necesitara cubierta de plástico. </string>
+    <string name="step3_cat_quemadura">Si es necesario, llame al 065 tan pronto como sea
+        posible, o pida que alguien mas lo haga. </string>
+
+    <!-- Pasos   -->
+    <string name="step1_cat_calor">La piel de la persona pude estar caliente o roja y también
+        puede estar seca o húmeda, ya que puede estar experimentando cambios en la consciencia,
+        así como vómito y una temperatura corporal alta.</string>
+    <string name="step2_cat_calor">llame al 065 tan pronto como sea posible, o pida que alguien mas lo haga.</string>
+    <string name="step3_cat_calor">Mueva a la persona a un lugar más fresco. Retire o
+        afloje la ropa apretada y aplique paños o toallas húmedas en la piel. Ventile a
+        la persona. Si está consciente, dar pequeñas cantidades de agua fresca para beber.
+        asegúrese de que beba lentamente.</string>
+    <string name="step4_cat_calor">Si es necesario continúe el enfriamiento mediante la
+        aplicación de hielo o compresas frías envueltas en un paño para las muñecas, los tobillos, la ingle, el cuello o las axilas.</string>
+
+    <!-- Pasos   -->
+    <string name="step1_cat_hipotermia">La persona puede estar temblando, pálida y fría al tacto. </string>
+    <string name="step2_cat_hipotermia">A la brevedad posible, llame al 065 o consiga que otra persona lo haga. </string>
+    <string name="step3_cat_hipotermia">Caliente lentamente a la persona y, si esta consciente,
+        proporcione tragos de sopa o una bebida caliente por la boca.</string>
+
+
+    <!-- Pasos   -->
+    <string name="step1_cat_veneno">Asegúrese, que, cuando, y que cantidad fue la que tomo. </string>
+    <string name="step2_cat_veneno">Llame al centro de información toxicológica. Llame al
+        065 si caen inconscientes, tienen un cambio de carácter, dificultad para respirar
+        o si usted cree que son suicidas. </string>
+    <string name="step3_cat_veneno">No haga que la persona vomite o trate de darle algo de tomar
+        a menos que se lo ordene el centro de información toxicológico. </string>
+
+    <!-- Pasos   -->
+    <string name="step1_cat_picadura">Remueva el aguijón raspándolo fuera con una superficie
+        plana, como una tarjeta de crédito, de otra forma, remuévala cuidadosamente con unas
+        pinzas asegurándose de agarrar la base del aguijón para evitar estrujar el saco del veneno. </string>
+    <string name="step2_cat_picadura">Lave la herida con agua y jabón. Aplique hielo o una compresa fría. </string>
+    <string name="step3_cat_picadura">llame al 065, si la persona parece tener una reacción alérgica o anafiláctica.
+algunos signos de esto incluyen irritación, hormigueo, hinchazón (edema) en las manos, pies o cara; además de una respiración lenta.
+ </string>
+    <string name="step4_cat_picadura"> </string>
+
+    <!-- Pasos   -->
+    <string name="step1_cat_inconsciente">Revise la respiración moviendo la cabeza hacia atrás y sintiendo los respiros.</string>
+    <string name="step2_cat_inconsciente">Revise la respiración moviendo la cabeza hacia atrás y sintiendo los respiros. </string>
+    <string name="step3_cat_inconsciente">Revise la respiración moviendo la cabeza hacia atrás y sintiendo los respiros. </string>
+    <string name="step4_cat_inconsciente">Revise la respiración moviendo la cabeza hacia atrás y sintiendo los respiros. </string>
+    <string name="server_api">http://api.minimalsoft.com</string>
+    <string name="facebook_app_id">206819446366392</string>
+    <string name="title_activity_quiz">Quiz</string>
+
+
+</resources>

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\build\\intermediates\\res\\merged\\debug\\menu\\options_register.xml",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\src\\main\\res\\menu\\options_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\build\\intermediates\\res\\merged\\debug\\menu\\options_register.xml",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\src\\main\\res\\menu\\options_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\src\\main\\res\\menu\\menu_main.xml"
+    }
+]

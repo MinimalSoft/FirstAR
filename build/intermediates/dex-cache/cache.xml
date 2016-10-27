@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\DaveMorales\AndroidProjects\angel-sdk-master\Android\angel-sample-app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\DaveMorales\AndroidProjects\angel-sdk-master\Android\angel-sample-app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_00118b86cc6e11f5e23af2ac8f22ee3fd2fd9b1f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DaveMorales\AndroidProjects\angel-sdk-master\Android\angel-sample-app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\DaveMorales\AndroidProjects\angel-sdk-master\Android\angel-sample-app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_96c8bb1bdf9bab2f536210fd59cd77a7381a5509\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DaveMorales\AndroidProjects\angel-sdk-master\Android\angel-sample-app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\DaveMorales\AndroidProjects\angel-sdk-master\Android\angel-sample-app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_da7e670df231587c51ceb3626f681403e5d8df02\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DaveMorales\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="C:\Users\DaveMorales\AndroidProjects\angel-sdk-master\Android\angel-sample-app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.8.0_56f01b3ede8f8b4b1c019d9891c59e2a8a8b7317\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DaveMorales\AndroidProjects\angel-sdk-master\Android\angel-sample-app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\DaveMorales\AndroidProjects\angel-sdk-master\Android\angel-sample-app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_9ec16e2ade1e06141765624c6837b973e29296c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DaveMorales\AndroidProjects\angel-sdk-master\Android\angel-sample-app\build\intermediates\exploded-aar\com.afollestad.material-dialogs\core\0.9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d3f8ab57967a9149262ad36a46477fc2515f6ac8">
+        <dex dex="C:\Users\DaveMorales\AndroidProjects\angel-sdk-master\Android\angel-sample-app\build\intermediates\transforms\dex\debug\folders\1000\10\com.afollestad.material-dialogs-core-0.9.0.2_50ab433db04e7ab3d3225a0b43c01c94d8f38c3c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DaveMorales\AndroidProjects\angel-sdk-master\Android\angel-sample-app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\DaveMorales\AndroidProjects\angel-sdk-master\Android\angel-sample-app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_fc7693acebd826b7e09164a02f8b969eb86ef1a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DaveMorales\AndroidProjects\angel-sdk-master\Android\angel-sample-app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\DaveMorales\AndroidProjects\angel-sdk-master\Android\angel-sample-app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_abbd47c7e84a51867392e3556860e099b7d42d55\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DaveMorales\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\DaveMorales\AndroidProjects\angel-sdk-master\Android\angel-sample-app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_370075e6aab5c2ca718aecc7ccb69c076021f224\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DaveMorales\AndroidProjects\angel-sdk-master\Android\angel-sample-app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\DaveMorales\AndroidProjects\angel-sdk-master\Android\angel-sample-app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_acf22b3357695217b5275aca038f2a8d8c24923c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DaveMorales\AndroidProjects\angel-sdk-master\Android\angel-sample-app\build\intermediates\exploded-aar\com.github.championswimmer\Android-SocialButtons\1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="466448960570bf1083a050d9a44a738567497aab">
+        <dex dex="C:\Users\DaveMorales\AndroidProjects\angel-sdk-master\Android\angel-sample-app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.championswimmer-Android-SocialButtons-1.0_54048968138504d3a1909e374475095b5335bc2c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DaveMorales\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\DaveMorales\AndroidProjects\angel-sdk-master\Android\angel-sample-app\build\intermediates\transforms\dex\debug\folders\1000\10\library-2.4.0_fb3604aeab12e1a2be3658419b14c1fe641c64d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DaveMorales\AndroidProjects\angel-sdk-master\Android\angel-sample-app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\DaveMorales\AndroidProjects\angel-sdk-master\Android\angel-sample-app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_f4d463cbd55ab25b37c0873c3dc78c99e1ed60f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DaveMorales\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.0\2b802460eea20f8f2ad9c08c74e0f14718e88aa9\okhttp-3.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="C:\Users\DaveMorales\AndroidProjects\angel-sdk-master\Android\angel-sample-app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.3.0_79f474acfa38edbec23faa36aabd042be2e1c41e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DaveMorales\AndroidProjects\angel-sdk-master\Android\angel-sample-app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\DaveMorales\AndroidProjects\angel-sdk-master\Android\angel-sample-app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_b82c14c83ff238c105c30724414f44356b21c9ba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DaveMorales\AndroidProjects\angel-sdk-master\Android\angel-sample-app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\DaveMorales\AndroidProjects\angel-sdk-master\Android\angel-sample-app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_31c165cf05ece8acceb0f68fa82050f172a14207\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DaveMorales\AndroidProjects\angel-sdk-master\Android\angel-sample-app\build\intermediates\exploded-aar\com.melnykov\floatingactionbutton\1.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8c6ebb7d087d1a30bf84356bd2aecf85309fc024">
+        <dex dex="C:\Users\DaveMorales\AndroidProjects\angel-sdk-master\Android\angel-sample-app\build\intermediates\transforms\dex\debug\folders\1000\10\com.melnykov-floatingactionbutton-1.3.0_8aafdabfd45db3b0928426b9768208df0806d2ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DaveMorales\AndroidProjects\angel-sdk-master\Android\angel-sample-app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="600dbc85178ceb445efffb2369891e18e091c40e">
+        <dex dex="C:\Users\DaveMorales\AndroidProjects\angel-sdk-master\Android\angel-sample-app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_5a41de841db3f65ab8ea9f3e11a7d049056b57d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DaveMorales\AndroidProjects\angel-sdk-master\Android\angel-sample-app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\DaveMorales\AndroidProjects\angel-sdk-master\Android\angel-sample-app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_d82c170b0f4fc264a6d4d335148b567f59cda7f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DaveMorales\AndroidProjects\angel-sdk-master\Android\angel-sample-app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\1.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ac6948cce36f694f3eb3d73a135e298dc4b3527a">
+        <dex dex="C:\Users\DaveMorales\AndroidProjects\angel-sdk-master\Android\angel-sample-app\build\intermediates\transforms\dex\debug\folders\1000\10\de.hdodenhof-circleimageview-1.3.0_88e74c477e7c2ed43f7243559a02c158501f31c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DaveMorales\AndroidProjects\angel-sdk-master\Android\angel-sample-app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="C:\Users\DaveMorales\AndroidProjects\angel-sdk-master\Android\angel-sample-app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.2.1_837cf33437393debea146828f0444ed1f4f370b6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DaveMorales\AndroidProjects\angel-sdk-master\Android\angel-sample-app\build\intermediates\exploded-aar\me.zhanghai.android.materialprogressbar\library\1.1.7\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1478a113f04bf0b679037b4f6bd88bd1837b96a3">
+        <dex dex="C:\Users\DaveMorales\AndroidProjects\angel-sdk-master\Android\angel-sample-app\build\intermediates\transforms\dex\debug\folders\1000\10\me.zhanghai.android.materialprogressbar-library-1.1.7_939af86eb2de756d8750b5e979b1562cbca3d22a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DaveMorales\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="C:\Users\DaveMorales\AndroidProjects\angel-sdk-master\Android\angel-sample-app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.1.0_9133004e1d373dd7375a290c25b4bfc08232e630\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DaveMorales\AndroidProjects\angel-sdk-master\Android\angel-sample-app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\DaveMorales\AndroidProjects\angel-sdk-master\Android\angel-sample-app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_744e0b73fc75999f8378fcba4625f09504de9b1f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DaveMorales\AndroidProjects\angel-sdk-master\Android\angel-sample-app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4ea0957cc2bf613d9b98c0ca04e58baede8f0000">
+        <dex dex="C:\Users\DaveMorales\AndroidProjects\angel-sdk-master\Android\angel-sample-app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_dc659892011064ba170f984686fe8ba3b17d288b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\DaveMorales\AndroidProjects\angel-sdk-master\Android\angel-sample-app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_10cd953c940accdea77ebb67004f63b8f836c70e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DaveMorales\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.2.0\6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd\bolts-android-1.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="C:\Users\DaveMorales\AndroidProjects\angel-sdk-master\Android\angel-sample-app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-android-1.2.0_b13b4708ca36c71941bfb1cca72a9306d963aa21\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DaveMorales\AndroidProjects\angel-sdk-master\Android\angel-sample-app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\DaveMorales\AndroidProjects\angel-sdk-master\Android\angel-sample-app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_b432156e01c39303af874e2817067b13d2b6275d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DaveMorales\AndroidProjects\angel-sdk-master\Android\angel-sample-app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\DaveMorales\AndroidProjects\angel-sdk-master\Android\angel-sample-app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_6d37fc6723f735da35cd5a899c02dc9be6717825\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DaveMorales\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="C:\Users\DaveMorales\AndroidProjects\angel-sdk-master\Android\angel-sample-app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.1.0_b44d96673372a109f49122eeb91d0a8a1631404e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DaveMorales\AndroidProjects\angel-sdk-master\Android\angel-sample-app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1c1afa0ab2a8197a5da1b36c4167a9e479cb74d9">
+        <dex dex="C:\Users\DaveMorales\AndroidProjects\angel-sdk-master\Android\angel-sample-app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.android-facebook-android-sdk-4.6.0_0e085aa82cb2d54aa0991d0ee0366dd8a5cb52fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DaveMorales\AndroidProjects\angel-sdk-master\Android\angel-sample-app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\DaveMorales\AndroidProjects\angel-sdk-master\Android\angel-sample-app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_d8b60a0f010617a251a8f733c89454d97d073151\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DaveMorales\AndroidProjects\angel-sdk-master\Android\angel-sample-app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\DaveMorales\AndroidProjects\angel-sdk-master\Android\angel-sample-app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_10e2d8e911efc0392e3334504cf43e527c3c007a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DaveMorales\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\DaveMorales\AndroidProjects\angel-sdk-master\Android\angel-sample-app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_cc114b8844db0243a1665b8eae37d98122ef2c17\classes.dex" />
+    </item>
+
+</items>

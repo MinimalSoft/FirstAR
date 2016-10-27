@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_launcher.png",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\First AR\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_launcher.png",
+        "source": "C:\\Users\\DaveMorales\\AndroidProjects\\angel-sdk-master\\Android\\angel-sample-app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    }
+]

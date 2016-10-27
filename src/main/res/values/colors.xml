@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <color name="colorPrimary">#F44336</color>
+    <color name="colorPrimaryDark">#D32F2F</color>
+    <color name="colorAccent">#448AFF</color>
+
+    <color name="primaryText">#212121</color>
+    <color name="secondaryText">#757575</color>
+
+    <color name="divider">#BDBDBD</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="list_item_text_color">#72a3b4</color>
+    <color name="list_item_key_color">#707070</color>
+    <color name="angel_gold_color">#fff9e222</color>
+    <color name="grey_50">#fffafafa</color>
+</resources>
